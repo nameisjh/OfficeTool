@@ -1,0 +1,15 @@
+D:\myprojects\OfficeTool\OfficeTool\obj\Debug\TestExcel.Form1.resources
+D:\myprojects\OfficeTool\OfficeTool\obj\Debug\OfficeTool.Properties.Resources.resources
+D:\myprojects\OfficeTool\OfficeTool\obj\Debug\TestExcel.csproj.GenerateResource.cache
+D:\myprojects\OfficeTool\OfficeTool\obj\Debug\TestExcel.csproj.CoreCompileInputs.cache
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\OfficeTool.exe.config
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\OfficeTool.exe
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\OfficeTool.pdb
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\NPOI.dll
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\NPOI.OOXML.dll
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\NPOI.OpenXml4Net.dll
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\OfficeTool.Library.dll
+D:\myprojects\OfficeTool\OfficeTool\bin\Debug\OfficeTool.Library.pdb
+D:\myprojects\OfficeTool\OfficeTool\obj\Debug\TestExcel.csproj.CopyComplete
+D:\myprojects\OfficeTool\OfficeTool\obj\Debug\OfficeTool.exe
+D:\myprojects\OfficeTool\OfficeTool\obj\Debug\OfficeTool.pdb

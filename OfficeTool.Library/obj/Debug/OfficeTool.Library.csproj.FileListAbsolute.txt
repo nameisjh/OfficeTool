@@ -1,0 +1,10 @@
+D:\myprojects\OfficeTool\OfficeTool.Library\bin\Debug\OfficeTool.Library.dll
+D:\myprojects\OfficeTool\OfficeTool.Library\bin\Debug\OfficeTool.Library.pdb
+D:\myprojects\OfficeTool\OfficeTool.Library\bin\Debug\NPOI.dll
+D:\myprojects\OfficeTool\OfficeTool.Library\bin\Debug\NPOI.OOXML.dll
+D:\myprojects\OfficeTool\OfficeTool.Library\bin\Debug\NPOI.OpenXml4Net.dll
+D:\myprojects\OfficeTool\OfficeTool.Library\obj\Debug\OfficeTool.Library.csproj.CoreCompileInputs.cache
+D:\myprojects\OfficeTool\OfficeTool.Library\obj\Debug\OfficeTool.Library.csproj.CopyComplete
+D:\myprojects\OfficeTool\OfficeTool.Library\obj\Debug\OfficeTool.Library.dll
+D:\myprojects\OfficeTool\OfficeTool.Library\obj\Debug\OfficeTool.Library.pdb
+D:\myprojects\OfficeTool\OfficeTool.Library\obj\Debug\OfficeTool.Library.csprojAssemblyReference.cache
